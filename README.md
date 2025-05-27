@@ -1,6 +1,7 @@
 **Marketing Campaign Effectiveness Analyzer**
 
 **Overview**
+<img width="629" alt="Screen Shot 2025-05-27 at 09 37 40" src="https://github.com/user-attachments/assets/9774bf91-b148-470b-b8b6-36ca7a107c66" />
 
 This project explores sales and marketing data to understand what makes a retail campaign successful. It looks at different types of promotions, market sizes, and store details to figure out which factors actually drive sales — and whether we can predict which customers are likely to respond.
 
